@@ -10,6 +10,8 @@ I am forestxie, or 句末, One front end developer!!!
 
 - WeChat: ABC123D2
 
+- 社交：[掘金](https://juejin.cn/user/4001878056901998/posts)
+
 ## Teck Stack
 
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
